@@ -1,9 +1,7 @@
-TypeScript React Hello World Demo
-=================================
+TypeScript React Monitor State Changes Demo
+===========================================
 
 ```
 npm install
 npm run demo
 ```
-
-It will open page on browser automatically.
